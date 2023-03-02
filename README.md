@@ -1,3 +1,11 @@
+# Relative.fi react assignment
+
+## Mockup design
+https://www.figma.com/file/6VsBmwK9hYtC6NxsFEEVtv/Trending-Assets
+
+## Progress (100/100)
+
+# React typescript guide
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
